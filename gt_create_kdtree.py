@@ -1,5 +1,5 @@
 # save as: gt_create_kdtree.py
-# for male groundtruth using other datas
+# for make groundtruth using other datas
 import os, json, argparse
 import numpy as np
 import trimesh
